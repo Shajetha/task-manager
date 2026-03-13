@@ -89,7 +89,7 @@ README.md
 
 ## Clone the repository
 
-git clone https://github.com/yourusername/task-manager.git
+git clone https://github.com/Shajetha/task-manager.git
 cd task-manager
 
 ---
